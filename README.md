@@ -2,4 +2,5 @@
 
 Language: Micropython
 
-ESP32 basec irrigation system
+ESP32 basic irrigation system
+
